@@ -1,8 +1,8 @@
 from smtplib import SMTP
 
-sender = 'techtricks9816@gmail.com'
-password = 'ufqytqfsuutiwulm'
-recipient = 'jatingorana123@gmail.com'
+sender = 'techtr9816@gmail.com'   #your own email and password
+password = 'ufqytqftiwulm'
+recipient = 'jatin@gmail.com'  #recievers email address
 
 # Connect to the SMTP server
 smtp_server = SMTP(host='smtp.gmail.com', port=587)
@@ -22,9 +22,9 @@ smtp_server.quit()
 
 
 # from smtplib import SMTP
-# sender = 'techtricks9816@gmail.com'
+# sender = 'tech@gmail.com'
 # Password = 'yourpassword'
-# recipient = 'jatingorana123@gmail.com'
+# recipient = 'jatin@gmail.com'
 # connect_server = SMTP( host = 'smtp.serveraddress.com', port = 587)
 # connect_server
 # connect_server.starttls()
