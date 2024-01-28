@@ -23,7 +23,7 @@ smtp_server.quit()
 
 # from smtplib import SMTP
 # sender = 'techtricks9816@gmail.com'
-# Password = '#j3killer'
+# Password = 'yourpassword'
 # recipient = 'jatingorana123@gmail.com'
 # connect_server = SMTP( host = 'smtp.serveraddress.com', port = 587)
 # connect_server
